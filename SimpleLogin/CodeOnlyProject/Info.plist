@@ -5,7 +5,7 @@
 	<key>CFBundleDisplayName</key>
 	<string>CodeOnlyProject</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.your-company.CodeOnlyProject</string>
+	<string>own.test-app</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
@@ -13,10 +13,11 @@
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>MinimumOSVersion</key>
-	<string>9.0</string>
+	<string>11.4</string>
 	<key>UIDeviceFamily</key>
 	<array>
 		<integer>1</integer>
+		<integer>2</integer>
 	</array>
 	<key>UIRequiredDeviceCapabilities</key>
 	<array>
