@@ -1,0 +1,15 @@
+Function=xamarin_timezone_get_data
+	/Users/isachar.yves.p.silva/Downloads/SimpleLogin/CodeOnlyProject/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Users/isachar.yves.p.silva/Downloads/SimpleLogin/CodeOnlyProject/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/isachar.yves.p.silva/Downloads/SimpleLogin/CodeOnlyProject/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/isachar.yves.p.silva/Downloads/SimpleLogin/CodeOnlyProject/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/isachar.yves.p.silva/Downloads/SimpleLogin/CodeOnlyProject/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=mono_pmip
+Function=xamarin_dyn_objc_msgSend
+Function=xamarin_dyn_objc_msgSendSuper
+Function=xamarin_dyn_objc_msgSend_stret
+Function=xamarin_dyn_objc_msgSendSuper_stret

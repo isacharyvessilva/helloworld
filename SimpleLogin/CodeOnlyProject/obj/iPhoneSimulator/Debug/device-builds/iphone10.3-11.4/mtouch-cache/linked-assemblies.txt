@@ -1,0 +1,4 @@
+RemoveDynamicRegistrar:false
+/Users/isachar.yves.p.silva/Downloads/SimpleLogin/CodeOnlyProject/bin/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/CodeOnlyProject.app:/Users/isachar.yves.p.silva/Downloads/SimpleLogin/CodeOnlyProject/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/mtouch-cache/1-Link/CodeOnlyProject.exe
+/Users/isachar.yves.p.silva/Downloads/SimpleLogin/CodeOnlyProject/bin/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/CodeOnlyProject.app:/Users/isachar.yves.p.silva/Downloads/SimpleLogin/CodeOnlyProject/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/mtouch-cache/1-Link/mscorlib.dll
+/Users/isachar.yves.p.silva/Downloads/SimpleLogin/CodeOnlyProject/bin/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/CodeOnlyProject.app:/Users/isachar.yves.p.silva/Downloads/SimpleLogin/CodeOnlyProject/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/mtouch-cache/1-Link/Xamarin.iOS.dll

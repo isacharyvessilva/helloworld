@@ -1,0 +1,12 @@
+/Users/isachar.yves.p.silva/Downloads/SimpleLogin/CodeOnlyProject/bin/iPhoneSimulator/Debug/CodeOnlyProject.exe
+/Users/isachar.yves.p.silva/Downloads/SimpleLogin/CodeOnlyProject/bin/iPhoneSimulator/Debug/CodeOnlyProject.pdb
+/Users/isachar.yves.p.silva/Downloads/SimpleLogin/CodeOnlyProject/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/actool/_PartialAppManifest.items
+/Users/isachar.yves.p.silva/Downloads/SimpleLogin/CodeOnlyProject/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/actool/_BundleResourceWithLogicalName.items
+/Users/isachar.yves.p.silva/Downloads/SimpleLogin/CodeOnlyProject/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/coremlc/_PartialAppManifest.items
+/Users/isachar.yves.p.silva/Downloads/SimpleLogin/CodeOnlyProject/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/coremlc/_BundleResourceWithLogicalName.items
+/Users/isachar.yves.p.silva/Downloads/SimpleLogin/CodeOnlyProject/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/optimized/Default-568h@2x.png
+/Users/isachar.yves.p.silva/Downloads/SimpleLogin/CodeOnlyProject/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/optimized/
+/Users/isachar.yves.p.silva/Downloads/SimpleLogin/CodeOnlyProject/obj/iPhoneSimulator/Debug/CodeOnlyDemo.csprojAssemblyReference.cache
+/Users/isachar.yves.p.silva/Downloads/SimpleLogin/CodeOnlyProject/obj/iPhoneSimulator/Debug/CodeOnlyDemo.csproj.CoreCompileInputs.cache
+/Users/isachar.yves.p.silva/Downloads/SimpleLogin/CodeOnlyProject/obj/iPhoneSimulator/Debug/CodeOnlyProject.exe
+/Users/isachar.yves.p.silva/Downloads/SimpleLogin/CodeOnlyProject/obj/iPhoneSimulator/Debug/CodeOnlyProject.pdb
