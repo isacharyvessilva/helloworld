@@ -15,7 +15,7 @@ namespace CodeOnlyDemo
             window = new UIWindow(UIScreen.MainScreen.Bounds);
 
             var controller = new CustomViewController();
-
+            //push
             window.RootViewController = controller;
 
             // make the window visible

@@ -1,7 +1,8 @@
 ﻿<Properties StartupConfiguration="{DB8B7EBC-51F2-4581-8F85-A930D67C2A1D}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="CodeOnlyProject/Info.plist">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CodeOnlyProject/AppDelegate.cs">
     <Files>
       <File FileName="CodeOnlyProject/Info.plist" />
+      <File FileName="CodeOnlyProject/AppDelegate.cs" Line="27" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.CodeOnlyDemo automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.58923797-5F90-4D81-9DE8-0C2977896CCE" />
