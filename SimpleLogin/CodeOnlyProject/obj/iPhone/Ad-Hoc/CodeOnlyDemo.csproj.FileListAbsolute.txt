@@ -1,0 +1,11 @@
+/Users/isachar.yves.p.silva/Desktop/helloworld/SimpleLogin/CodeOnlyProject/bin/iPhone/Ad-Hoc/CodeOnlyProject.exe
+/Users/isachar.yves.p.silva/Desktop/helloworld/SimpleLogin/CodeOnlyProject/bin/iPhone/Ad-Hoc/CodeOnlyProject.pdb
+/Users/isachar.yves.p.silva/Desktop/helloworld/SimpleLogin/CodeOnlyProject/obj/iPhone/Ad-Hoc/actool/_PartialAppManifest.items
+/Users/isachar.yves.p.silva/Desktop/helloworld/SimpleLogin/CodeOnlyProject/obj/iPhone/Ad-Hoc/actool/_BundleResourceWithLogicalName.items
+/Users/isachar.yves.p.silva/Desktop/helloworld/SimpleLogin/CodeOnlyProject/obj/iPhone/Ad-Hoc/coremlc/_PartialAppManifest.items
+/Users/isachar.yves.p.silva/Desktop/helloworld/SimpleLogin/CodeOnlyProject/obj/iPhone/Ad-Hoc/coremlc/_BundleResourceWithLogicalName.items
+/Users/isachar.yves.p.silva/Desktop/helloworld/SimpleLogin/CodeOnlyProject/obj/iPhone/Ad-Hoc/optimized/Default-568h@2x.png
+/Users/isachar.yves.p.silva/Desktop/helloworld/SimpleLogin/CodeOnlyProject/obj/iPhone/Ad-Hoc/optimized/
+/Users/isachar.yves.p.silva/Desktop/helloworld/SimpleLogin/CodeOnlyProject/obj/iPhone/Ad-Hoc/CodeOnlyDemo.csproj.CoreCompileInputs.cache
+/Users/isachar.yves.p.silva/Desktop/helloworld/SimpleLogin/CodeOnlyProject/obj/iPhone/Ad-Hoc/CodeOnlyProject.exe
+/Users/isachar.yves.p.silva/Desktop/helloworld/SimpleLogin/CodeOnlyProject/obj/iPhone/Ad-Hoc/CodeOnlyProject.pdb

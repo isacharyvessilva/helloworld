@@ -1,0 +1,11 @@
+/Users/isachar.yves.p.silva/Desktop/helloworld/SimpleLogin/CodeOnlyProject/bin/iPhoneSimulator/Release/CodeOnlyProject.exe
+/Users/isachar.yves.p.silva/Desktop/helloworld/SimpleLogin/CodeOnlyProject/bin/iPhoneSimulator/Release/CodeOnlyProject.pdb
+/Users/isachar.yves.p.silva/Desktop/helloworld/SimpleLogin/CodeOnlyProject/obj/iPhoneSimulator/Release/actool/_PartialAppManifest.items
+/Users/isachar.yves.p.silva/Desktop/helloworld/SimpleLogin/CodeOnlyProject/obj/iPhoneSimulator/Release/actool/_BundleResourceWithLogicalName.items
+/Users/isachar.yves.p.silva/Desktop/helloworld/SimpleLogin/CodeOnlyProject/obj/iPhoneSimulator/Release/coremlc/_PartialAppManifest.items
+/Users/isachar.yves.p.silva/Desktop/helloworld/SimpleLogin/CodeOnlyProject/obj/iPhoneSimulator/Release/coremlc/_BundleResourceWithLogicalName.items
+/Users/isachar.yves.p.silva/Desktop/helloworld/SimpleLogin/CodeOnlyProject/obj/iPhoneSimulator/Release/optimized/Default-568h@2x.png
+/Users/isachar.yves.p.silva/Desktop/helloworld/SimpleLogin/CodeOnlyProject/obj/iPhoneSimulator/Release/optimized/
+/Users/isachar.yves.p.silva/Desktop/helloworld/SimpleLogin/CodeOnlyProject/obj/iPhoneSimulator/Release/CodeOnlyDemo.csproj.CoreCompileInputs.cache
+/Users/isachar.yves.p.silva/Desktop/helloworld/SimpleLogin/CodeOnlyProject/obj/iPhoneSimulator/Release/CodeOnlyProject.exe
+/Users/isachar.yves.p.silva/Desktop/helloworld/SimpleLogin/CodeOnlyProject/obj/iPhoneSimulator/Release/CodeOnlyProject.pdb

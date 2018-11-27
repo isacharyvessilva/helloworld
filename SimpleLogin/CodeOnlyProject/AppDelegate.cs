@@ -20,7 +20,7 @@ namespace CodeOnlyDemo
 
             // make the window visible
             //jsut to test
-    
+            //For the hockey
             window.MakeKeyAndVisible();
 			
             return true;

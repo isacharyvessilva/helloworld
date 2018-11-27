@@ -1,0 +1,4 @@
+MonoTouch: Could not install sigaction override, unexpected sigaction implementation.
+2018-11-27 19:01:19.402384+0800 CodeOnlyProject[53781:313522] SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=53781
+2018-11-27 19:01:19.403092+0800 CodeOnlyProject[53781:313522] SecTaskCopyDebugDescription: CodeOnlyProject[53781]/0#-1 LF=0
+2018-11-27 19:02:23.145179+0800 CodeOnlyProject[53781:313644] [process_info] Exiting because the workspace server has disconnected.
