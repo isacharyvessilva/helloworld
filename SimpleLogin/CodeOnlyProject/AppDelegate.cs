@@ -19,6 +19,7 @@ namespace CodeOnlyDemo
             window.RootViewController = controller;
 
             // make the window visible
+            //jsut to test
             window.MakeKeyAndVisible();
 			
             return true;

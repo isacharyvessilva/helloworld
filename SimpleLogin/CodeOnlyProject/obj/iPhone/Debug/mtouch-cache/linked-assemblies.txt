@@ -1,0 +1,4 @@
+RemoveDynamicRegistrar:true
+/Users/isachar.yves.p.silva/Desktop/helloworld/SimpleLogin/CodeOnlyProject/bin/iPhone/Debug/CodeOnlyProject.app:/Users/isachar.yves.p.silva/Desktop/helloworld/SimpleLogin/CodeOnlyProject/obj/iPhone/Debug/mtouch-cache/1-Link/CodeOnlyProject.exe
+/Users/isachar.yves.p.silva/Desktop/helloworld/SimpleLogin/CodeOnlyProject/bin/iPhone/Debug/CodeOnlyProject.app:/Users/isachar.yves.p.silva/Desktop/helloworld/SimpleLogin/CodeOnlyProject/obj/iPhone/Debug/mtouch-cache/1-Link/mscorlib.dll
+/Users/isachar.yves.p.silva/Desktop/helloworld/SimpleLogin/CodeOnlyProject/bin/iPhone/Debug/CodeOnlyProject.app:/Users/isachar.yves.p.silva/Desktop/helloworld/SimpleLogin/CodeOnlyProject/obj/iPhone/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
