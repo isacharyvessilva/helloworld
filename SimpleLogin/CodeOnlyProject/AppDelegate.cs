@@ -20,7 +20,7 @@ namespace CodeOnlyDemo
 
             // make the window visible
             //jsut to test
-            //lol
+    
             window.MakeKeyAndVisible();
 			
             return true;
